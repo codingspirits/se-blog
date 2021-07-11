@@ -74,7 +74,7 @@
     height: 200%;
   }
 body{
-  background:navy;
+  background:lightblue;
   text-align: Center;
 }
   *{
@@ -92,4 +92,9 @@ body{
 
 div#middle {
   text-align: Center;
+}
+
+.endnote {
+  font-style:italic;
+  font-size:small;
 }
